@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Youssef Wally
+    given-names: Johan Mylius-Kroken
+  - family-names: Michael Kampffmeyer
+    given-names: Rezvan Ehsani
+  - family-names: Vladan Milosevic
+    given-names: Elisabeth Wetzer
+title: 'Flatland and Beyond: Mutual Information Across Geometries'
+version: 1.0.0
+url: https://openreview.net/forum?id=LX9bskkzH2
+date-released: '2025-10-15'
+preferred-citation:
+  authors:
+    - family-names: Youssef Wally
+      given-names: Johan Mylius-Kroken
+    - family-names: Michael Kampffmeyer
+      given-names: Rezvan Ehsani
+    - family-names: Vladan Milosevic
+      given-names: Elisabeth Wetzer
+  title: 'Flatland and Beyond: Mutual Information Across Geometries'
+  url: https://openreview.net/forum?id=LX9bskkzH2
+  type: conference-paper
+  year: '2025'
+  collection-title: '2nd Beyond Euclidean Workshop: Hyperbolic and Hyperspherical Learning for Computer Vision'
+  conference: {}
+  publisher: {}
