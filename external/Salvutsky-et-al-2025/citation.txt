@@ -1,0 +1,1 @@
+Slavutsky, Y., O. Beker, D. Blei, and B. Dumitrascu, 2025, Variational learning of disentangled representations
