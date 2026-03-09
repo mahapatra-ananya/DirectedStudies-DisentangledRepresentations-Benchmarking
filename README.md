@@ -1,6 +1,6 @@
-# CPSC 448 Directed Studies Project at University of British Columbia, Vancouver
+# CPSC 448 Directed Studies Project 
 
-Supervised by Dr. Jiarui Ding
+Supervised by Dr. Jiarui Ding at University of British Columbia, Vancouver
 
 Disentangled representation learning in single cell omics aims to separate condition-specific and
 condition-invariant factors of variation in single cell RNA sequencing (scRNA-seq) data, facilitating
@@ -17,8 +17,8 @@ The aim of this project was threefold:
 (a) To build conceptual knowledge and understanding by extensively reviewing the literature on concepts such as probabilistic
 graphical models, variational autoencoders (VAEs), and disentangled representation learning in single cell omics, in order to
 investigate the performance of a new VAE framework named DISCoVeR for the purpose of disentangling condition-specific and
-condition-invariant latent variables in scRNA-seq data
+condition-invariant latent variables in scRNA-seq data.
 (b) To reproduce the scRNA-seq experiment conducted by Slavutsky et al. (2025) to evaluate DISCoVeR’s performance, and
-additionally contribute mutual information scores to aid evaluation
+additionally contribute mutual information scores to aid evaluation.
 (c) To extend the experiments by training the DISCoVeR model on two additional datasets and evaluating its generalizability
-by comparing its performance to other variational autoencoder frameworks
+by comparing its performance to other variational autoencoder frameworks.
