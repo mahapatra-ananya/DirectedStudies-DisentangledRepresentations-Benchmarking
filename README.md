@@ -22,3 +22,5 @@ condition-invariant latent variables in scRNA-seq data.
 additionally contribute mutual information scores to aid evaluation.
 (c) To extend the experiments by training the DISCoVeR model on two additional datasets and evaluating its generalizability
 by comparing its performance to other variational autoencoder frameworks.
+
+Additional details in final report.
