@@ -1,0 +1,3 @@
+Wally, Y., J. Mylius-Kroken, M. Kampffmeyer, R. Ehsani, V. Milosevic, and E. Wetzer, 2025, Flatland and beyond: Mutual
+information across geometries: Presented at the 2nd Beyond Euclidean Workshop: Hyperbolic and Hyperspherical Learning for
+Computer Vision
